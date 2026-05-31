@@ -34,6 +34,9 @@ export const metadata: Metadata = {
     description:
       "HarvestWayAI is an AI-powered platform providing farmers with intelligent insights and predictions.",
   },
+  icons: {
+    icon: "/icon.png",
+  },
 };
 
 export const viewport: Viewport = {
